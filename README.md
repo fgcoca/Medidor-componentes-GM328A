@@ -7,7 +7,7 @@ El GM328 es un medidor de:
 * Frecuencímetro o contador de frecuencia (Cymometer)
 * Generador de onda cuadrada. 
 
-Acceso a la wiki con toda la información de manejo
+[Acceso a la wiki con toda la información de manejo](https://github.com/fgcoca/Medidor-componentes-GM328A/wiki)
 
 El aspecto del medidor lo vemos en la imagen siguiente:
 ![](https://github.com/fgcoca/Medidor-componentes-GM328A-/blob/master/images/comprobador.png)
